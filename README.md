@@ -1,7 +1,5 @@
 # Comparative_Genomic_Analysis_Identifying_and_Characterizing_-SNPs-_in_DNA_Sequences
 
-# SNP Analysis Project
-
 This project focuses on identifying and analyzing Single Nucleotide Polymorphisms (SNPs) between two DNA sequences using Biopython. SNPs are important for understanding genetic diversity, disease susceptibility, and evolutionary relationships.
 
 ## Features
