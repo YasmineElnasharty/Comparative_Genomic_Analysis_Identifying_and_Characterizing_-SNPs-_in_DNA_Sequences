@@ -1,0 +1,2 @@
+# Comparative_Genomic_Analysis_Identifying_and_Characterizing_-SNPs-_in_DNA_Sequences
+Bioinformatics project using Biopython to identify and analyze SNPs in DNA sequences. Includes sequence alignment, SNP detection, and analysis of SNP distribution, frequency, density, and transition/transversion ratios. Useful for studying genetic diversity, disease susceptibility, and evolutionary relationships.
